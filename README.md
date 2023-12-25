@@ -1,8 +1,8 @@
 apt-get update -y
 apt-get upgrade -y 
-cd BruteX
-chmod +x *
 apt-get install git -y
-git clone https://github.com/HRHACK1-X/BruteX.git/
+git clone https://github.com/MrHacker-X/BruteX.git/
+chmod +x *
+cd BruteX
 bash setup.sh
 python3 brutex.py
