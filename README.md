@@ -5,4 +5,4 @@ git clone https://github.com/MrHacker-X/BruteX.git/
 cd BruteX
 chmod +x *
 bash setup.sh
-python3 brutex.py
+python crackerx.py
